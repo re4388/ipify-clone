@@ -6,7 +6,7 @@ module.exports = (req, res) => {
     axios.get('https://quotes.rest/qod?language=en')
         .then(json => {
             console.log(json.data)
-            quote_string = json.data.contents.quotes[0].quote
+            let quote_string = json.data.contents.quotes[0].quote
         })
         .catch(e => console.log(e))
         .then(() => console.log('always run'));
