@@ -13,7 +13,7 @@
 ## Demo
 - [ipify clone HOMEPAGE](https://ipify-clone-1vhuvfayz.now.sh/)
 - [ipify plain text IP endpit](https://ipify-clone.now.sh/api/text)
-- [ipify json IP endpit](https://ipify-clone.now.sh/api/text)
+- [ipify json IP endpit](https://ipify-clone.now.sh/api/json)
 - [ipify jsonp & cb IP endpit](https://ipify-clone.now.sh/api/text)
 
 
