@@ -5,10 +5,6 @@
 - [Dashboard – Vercel](https://vercel.com/re4388/ipify-clone/deployments)
 
 
-## API 端點
-- 返回 ip as plain text
-- 返回 ip in json, `{ "ip": "255.255.255.255" }`
-- 返回 ip in jsonp 和客製化 callback, `userSuppliedCallback({ "ip": "255.255.255.255" })`
 
 ## Demo
 - [Demo](https://ipify-clone.re4388.now.sh/)
