@@ -4,14 +4,18 @@
 - [Rebuilding the ipify service to demonstrate Vercel's serverless functions - DEV](https://dev.to/kallmanation/rebuilding-the-ipify-service-to-demonstrate-vercel-s-serverless-functions-1k9g)
 - [Vercel](https://vercel.com/)
 
-## Demo
-[ipify clone](https://ipify-clone-1vhuvfayz.now.sh/)
-
 
 ## API 端點
 - 返回 ip as plain text
 - 返回 ip in json, `{ "ip": "255.255.255.255" }`
 - 返回 ip in jsonp 和客製化 callback, `userSuppliedCallback({ "ip": "255.255.255.255" })`
+
+## Demo
+- [ipify clone HOMEPAGE](https://ipify-clone-1vhuvfayz.now.sh/)
+- [ipify plain text IP endpit](https://ipify-clone.now.sh/api/text)
+- [ipify json IP endpit](https://ipify-clone.now.sh/api/text)
+- [ipify jsonp & cb IP endpit](https://ipify-clone.now.sh/api/text)
+
 
 ## 學習點
 - 在Vercel上部屬serverless functions
