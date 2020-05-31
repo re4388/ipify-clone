@@ -11,7 +11,7 @@
 - 返回 ip in jsonp 和客製化 callback, `userSuppliedCallback({ "ip": "255.255.255.255" })`
 
 ## Demo
-- [Demo](https://ipify-clone-1vhuvfayz.now.sh/)
+- [Demo](https://ipify-clone.re4388.now.sh/)
 
 
 
