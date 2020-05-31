@@ -1,4 +1,4 @@
-const requestIp = require('request-ip')
+const axios = require('axios');
 
 module.exports = (req, res) => {
     res.setHeader('Content-Type', 'application/json');

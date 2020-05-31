@@ -2,7 +2,7 @@
 
 ## 學習網站
 - [Rebuilding the ipify service to demonstrate Vercel's serverless functions - DEV](https://dev.to/kallmanation/rebuilding-the-ipify-service-to-demonstrate-vercel-s-serverless-functions-1k9g)
-- [Vercel](https://vercel.com/)
+- [Dashboard – Vercel](https://vercel.com/re4388/ipify-clone/deployments)
 
 
 ## API 端點
