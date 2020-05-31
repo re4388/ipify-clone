@@ -7,7 +7,7 @@ module.exports = (req, res) => {
         .then(json => {
             console.log(json.data)
             let quote_string = json.data.contents.quotes[0].quote
-            res.status(200).send(`<h1>${quote_string}</h1>`)
+            res.status(200).send(`${quote_string}`)
         })
         .catch(e => console.log(e))
         .then(() => console.log('always run'));
